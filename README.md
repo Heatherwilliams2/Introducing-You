@@ -1,4 +1,4 @@
-<h1>?# Introducing Heather Williams</h1> 
+<h1> Introducing Heather Williams</h1> 
 
 #### Hello and welcome to Introducing me, Heather Williams. 
 I grew up in Ottawa, Ontario and have lived there my whole life.
