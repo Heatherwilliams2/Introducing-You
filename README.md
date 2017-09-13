@@ -1,7 +1,7 @@
 #Introducing Heather Williams 
 
 ####Hello and welcome to Introducing me, Heather Williams. 
-I grew up in Ottawa, Ontario and have lived there my whole life.
+>I grew up in Ottawa, Ontario and have lived there my whole life.
 I attended W.O.Mitchell Elementary School for grade 5-8. I went to Roch Carrier Elementary School for kindergarten-grade 4. 
 I was born to the loving family of my Mom, Shannon Williams and my Dad, Kerry Williams. I have three sisters. Amber, the eldest, is 16, Megan, my twin who is 14 and my youngest sister, Erin who is 8 years old.  
 Megan and I take dance classes at Allegro Danceworks. This is my **favourite** hobby, because dance has no stress. If you have had a bad day at school, dance helps you to relax.
@@ -16,6 +16,5 @@ My favourite joke is _“ What did the buffalo say to his son when we went to of
 What **I want** to get out of Business is to know how to work with computers and know business communications. 
 The software I have used in the past is google Spreadsheet, Openoffice, and google docs.
  
-![A picture that represents me](http://images.clipartpanda.com/dancer-leaping-clipart-dancing_silhouettes_3_1.png)
 
-![TEST](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ballet-dancer_01.jpg)
+![A picture that represents me](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ballet-dancer_01.jpg)
