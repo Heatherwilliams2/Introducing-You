@@ -7,7 +7,7 @@ Megan and I take dance classes at Allegro Danceworks. This is my **favourite** h
  Another way I relax myself is to read **lots of books**. My favourite series is Harry Potter.:books: 
 I love listening to music when I’m doing homework. My favourite song is _“She Ain’t There To Kiss Me”_ by Brett Young. I also listen to any song from the musicals Les Miserables and Mammamia.:musical_note: My favourite actors are Eddie Redmayne and Amanda Seyfried. 
 _Anything_ italian is my favourite food, _I love spaghetti the most,_ italian food is my **_all time favourite_** because it’s **amazing!!!!!** There are so many sauce recipes to make to even more excellent.:spaghetti: 
-I do a paper route every Wednesday. I make $10 a week, good pocket money.
+I do a paper route every Wednesday. I make $10 a week, good pocket money.:money:
  My strengths are time management and organization. One of weaknesses is I put a lot of pressure on myself, which sometimes turns into a positive result. 
 The language I speak is english. I don’t speak any other languages at home.
  I like to watch movies on the weekends with my family, and on the weeknights I dance, Monday through Friday. 
