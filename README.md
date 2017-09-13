@@ -2,7 +2,7 @@
 
 #### Hello and welcome to Introducing me, Heather Williams. 
 I attended W.O.Mitchell Elementary School for grade 5-8. I went to Roch Carrier Elementary School for kindergarten-grade 4. :school_satchel: 
-I was born to the _loving_ family of my Mom, Shannon Williams and my Dad, Kerry Williams. I have three sisters. Amber, the eldest, is 16, Megan, my twin who is 14 and my youngest sister, Erin who is 8 years old.  
+I was born to the _loving_ family of my Mom, Shannon Williams and my Dad, Kerry Williams. I have three sisters. Amber, the eldest, is 16, Megan, my twin who is 14 and my youngest sister, Erin who is 8 years old.:family:  
 Megan and I take dance classes at Allegro Danceworks. This is my **favourite** hobby, because dance has no stress. If you have had a bad day at school, dance helps you to relax.
  Another way I relax myself is to read **lots of books**. My favourite series is Harry Potter.:books: 
 I love listening to music when I’m doing homework. My favourite song is _“She Ain’t There To Kiss Me”_ by Brett Young. I also listen to any song from the musicals Les Miserables and Mammamia.:musical_note: My favourite actors are Eddie Redmayne and Amanda Seyfried. 
