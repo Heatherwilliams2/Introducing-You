@@ -1,15 +1,6 @@
-
-
-<style>
-h1{
- color:yellow;
- }
-</style>
-
-
 <h1> Introducing Heather Williams</h1> 
 
-#### Hello and welcome to Introducing me, Heather Williams. 
+<h2 <style>  h1{ background-color:orange;}</style> Hello and welcome to Introducing me, Heather Williams. 
 I grew up in Ottawa, Ontario and have lived there my whole life.
 I attended W.O.Mitchell Elementary School for grade 5-8. I went to Roch Carrier Elementary School for kindergarten-grade 4. 
 I was born to the loving family of my Mom, Shannon Williams and my Dad, Kerry Williams. I have three sisters. Amber, the eldest, is 16, Megan, my twin who is 14 and my youngest sister, Erin who is 8 years old.  
