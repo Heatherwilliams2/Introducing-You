@@ -1,3 +1,12 @@
+
+
+<style>
+h1{
+ color:yellow;
+ }
+</style>
+
+
 <h1> Introducing Heather Williams</h1> 
 
 #### Hello and welcome to Introducing me, Heather Williams. 
@@ -20,11 +29,3 @@ The software I have used in the past is google Spreadsheet, Openoffice, and most
 ![A picture that represents me](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ballet-dancer_01.jpg)
  
 
-<style>
-h1{
- color:yellow;
- }
-
-
-
-</style>
