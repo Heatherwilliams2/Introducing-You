@@ -13,7 +13,7 @@ The language I speak is english. I don’t speak any other languages at home.
  I like to watch movies on the weekends with my family, and on the weeknights I dance, Monday through Friday. 
 My favourite joke is _“What did the buffalo say to his son, when we went to off to school? Bi-son”_ 
 What **I want** to get out of Business is to know how to work with computers and know business communications. 
-The software I have used in the past is google Spreadsheet, Openoffice, and most often google docs.
+The software I have used in the past is Google Spreadsheet, Openoffice, and most often Google Docs.
  
 
 ![A picture that represents me](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ballet-dancer_01.jpg)
