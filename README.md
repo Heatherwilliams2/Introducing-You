@@ -21,4 +21,10 @@ The software I have used in the past is google Spreadsheet, Openoffice, and goog
  
 
 
-...+this will be highlightedd in yellow diffuvufvfuvdvuvud
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+``
