@@ -16,4 +16,6 @@ My favourite joke is _“ What did the buffalo say to his son when we went to of
 What **I want** to get out of Business is to know how to work with computers and know business communications. 
 The software I have used in the past is google Spreadsheet, Openoffice, and google docs.
  
-![Dancer](http://images.clipartpanda.com/dancer-leaping-clipart-dancing_silhouettes_3_1.png)
+![A picture that represents me](http://images.clipartpanda.com/dancer-leaping-clipart-dancing_silhouettes_3_1.png)
+
+![TEST](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ballet-dancer_01.jpg)
