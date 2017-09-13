@@ -1,11 +1,3 @@
-
-<style>
-h1{color:purple;}
-p{colour:orange;}
- body{background-color:pink;}
-</style>
-
-
 # Introducing Heather Williams 
 
 #### Hello and welcome to Introducing me, Heather Williams. 
@@ -26,6 +18,7 @@ The software I have used in the past is google Spreadsheet, Openoffice, and goog
  
 
 ![A picture that represents me](https://upload.wikimedia.org/wikipedia/commons/f/f6/Ballet-dancer_01.jpg)
+ 
 
 
-
+...+this will be highlightedd in yellow diffuvufvfuvdvuvud
