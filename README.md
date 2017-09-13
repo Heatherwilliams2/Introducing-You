@@ -11,7 +11,7 @@ I do a paper route every Wednesday. I make $10 a week, good pocket money.
  My strengths are time management and organization. One of weaknesses is I put a lot of pressure on myself, which sometimes turns into a positive result. 
 The language I speak is english. I don’t speak any other languages at home.
  I like to watch movies on the weekends with my family, and on the weeknights I dance, Monday through Friday. 
-My favourite joke is _“ What did the buffalo say to his son when we went to off to school? Bi-son”_ 
+My favourite joke is _“ What did the buffalo say to his son, when we went to off to school? Bi-son”_ 
 What **I want** to get out of Business is to know how to work with computers and know business communications. 
 The software I have used in the past is google Spreadsheet, Openoffice, and most often google docs.
  
